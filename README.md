@@ -13,12 +13,6 @@ Aqui você vai encontrar projetos pessoais, experimentos e estudos nas áreas de
 - 🔧 **Suporte Técnico** — scripts, rotinas e automações úteis para o dia a dia
 - 🌐 **Desenvolvimento Web** — projetos com React, Node.js, Flask e Django
 - 🤖 **Bots e Automações** — usando N8N, Python e integração com APIs
-- 📊 **Análise de Dados** — scripts e dashboards simples com Python e Pandas
-
----
-
-### 📌 Alguns projetos legais para conferir:
-- 🤖 **Automação com Discord + N8N** — bot que responde mensagens, verifica emojis e mais
 ---
 
 ### 📈 Estatísticas do GitHub
