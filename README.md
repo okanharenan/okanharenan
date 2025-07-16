@@ -12,10 +12,10 @@
 
 Aqui você vai encontrar meus projetos pessoais, estudos e experimentos nas áreas de:
 
-- 🔧 **Suporte Técnico** — automações, instalação de sistemas e manutenção de ambientes
-- 🌐 **Desenvolvimento Web** — com React, Node.js, Flask e Django
-- 🤖 **Bots e Automações** — com N8N, Python, APIs e integração com Discord
-- 📊 **Análise de Dados** — com Python, Pandas e automações úteis do dia a dia
+- 🔧 **Suporte Técnico** — automações, instalação de sistemas, manutenção e atendimento técnico
+- 🌐 **Desenvolvimento Web** — com React, Node.js, Django e APIs REST
+- 🤖 **Bots e Automações** — com N8N, Python, integrações com sistemas e Discord
+- 🪟 **Ambientes Windows** — scripts, suporte e soluções para sistemas operacionais
 
 ---
 
@@ -26,12 +26,13 @@ Aqui você vai encontrar meus projetos pessoais, estudos e experimentos nas áre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://img.shields.io/badge/N8N-%23EF7B2D?style=flat&logo=n8n&logoColor=white" alt="N8N" height="30"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" height="30"/>
 </p>
 
 ---
