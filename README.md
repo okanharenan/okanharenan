@@ -51,7 +51,7 @@ Aqui você vai encontrar meus projetos pessoais, estudos e experimentos nas áre
 ### 🤝 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/renanokanha/)
-- 📫 renan.seuemail@gmail.com
+- 📫 okanharenan@gmail.com
 - 💬 Sempre aberto a trocar ideias e colaborações!
 
 ---
